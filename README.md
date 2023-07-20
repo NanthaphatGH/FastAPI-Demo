@@ -1,2 +1,8 @@
 # FastAPI-Demo
-Create FastAPI using MongoDB database
+Create FastAPI using MongoDB, this project required a Mongodbcompass program to create a simple database.
+
+1. Activate scripts using the command --> .\env\Scripts\activate
+2. Open the Mongodbcompass program and connect to URI(mongodb://localhost:27017)
+3. Back to the terminal and initiate API --> uvicorn main:app --reload
+4. Use the Postman program to manage the information in the database by using this URL --> http://127.0.0.1:8000/votes/
+
