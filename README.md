@@ -1,7 +1,7 @@
 # FastAPI-Demo
 Create FastAPI using MongoDB, this project required a Mongodbcompass program to create a simple database.
 
-1. Create a virtual environment by using the command --> python -m venv
+1. Create a virtual environment name [env] by using the command --> python -m venv env   
 2. Activate scripts using the command --> .\env\Scripts\activate
 3. Install Uvicorn in the Terminal--> pip install fastapi uvicorn
 4. Open the Mongodbcompass program and connect to URI(mongodb://localhost:27017)
