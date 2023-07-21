@@ -1,5 +1,5 @@
 # FastAPI-Demo
-Create FastAPI using MongoDB, this project required a Mongodbcompass program to create a simple database.
+Create FastAPI using MongoDB, this project required a Mongodbcompass program to create a simple database. An env folder needed to be the same folder as main.py 
 
 1. Create a virtual environment name [env] by using the command --> python -m venv env   
 2. (Begin here)Activate scripts using the command --> .\env\Scripts\activate
